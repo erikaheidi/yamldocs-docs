@@ -1,14 +1,9 @@
 ---
 title: "Basic Usage"
 weight: 2
-# geekdocFlatSection: false
-geekdocToc: 6
-geekdocHidden: false
 date: 2022-12-04T10:35:15+01:00
 draft: false
 ---
-
-{{< toc format=html >}}
 
 Yamldocs is built in PHP (cli only) with Minicli. You can run it on a PHP 8.1+ environment or via Docker. Check the [installation]() docs page for details on how to get Yamldocs installed on your system.
 

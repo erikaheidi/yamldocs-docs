@@ -1,14 +1,9 @@
 ---
 title: "Installation"
 weight: 1
-# geekdocFlatSection: false
-geekdocToc: 6
-geekdocHidden: false
 date: 2022-12-04T10:35:15+01:00
 draft: false
 ---
-
-{{< toc format=html >}}
 
 Yamldocs is a versatile markdown generator that can be installed and used in different ways, depending on how much customization you need.
 
